@@ -1,0 +1,42 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+coreapi = "*"
+pre-commit = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+django-allauth = "*"
+django-rest-auth = "*"
+djangorestframework-simplejwt = "*"
+djangorestframework-jwt = "*"
+pillow = "*"
+fpdf = "*"
+pytesseract = "*"
+django-cors-headers = "*"
+django-environ = "*"
+django-dotenv = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
+pylama = "*"
+whitenoise = "*"
+uuid = "*"
+Pillow = "*"
+django-mptt = "*"
+pyjwt = "*"
+dj-rest-auth = "*"
+rest-pandas = "*"
+openpyxl = "*"
+django-extensions = "*"
+pyparsing = "*"
+pydot = "*"
+django-seed = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
